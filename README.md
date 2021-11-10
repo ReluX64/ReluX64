@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Relugus, I'm a human and I live on Earth.
+
 <!--
 **ReluX64/ReluX64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
